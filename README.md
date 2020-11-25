@@ -1,3 +1,7 @@
+Program Discription: TCP segment simulation; the program stimulates the process
+of transmitting a message in a 3 way handshake TCP segment on a client-server based network 
+communication program.
+
 To compile:
        server:
               make server
